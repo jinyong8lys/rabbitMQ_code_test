@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 192.168.114.10
+    port: 5672
+    username: mixia
+    password: mixia1234
+    publisher-confirm-type: correlated
